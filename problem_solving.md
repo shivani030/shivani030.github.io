@@ -10,9 +10,9 @@ This repository contains the course material from Problem Solving with Python, a
 The first ten to twelve hours are dedicated to familiarizing the student with the concepts of Python language along with various constructs. Afterwards, the course focuses on building problem-solving skills used in competitive programming. Lecture slides, the problem sets, and other supporting material can be found on this page.
 
 | File Name | Topic List | Link |
-|--------------|--------------|------|
+|--------------|--------------|:------:|
 | Lecture 1 | Identifiers, Block of Code, Input and Output, Operators in Python, Range, Loop Constructs |[Link](assets/files/PSP/PSP_1.pdf) |
-| Classroom Assignment | |[Link](assets/files/PSP/ClassroomAssignment1.pdf)|
+| Classroom Assignment 1 | |[Link](assets/files/PSP/ClassroomAssignment1.pdf)|
 | Lecture 2 | Numeric Types, Sequences, Lists, List Comprehension, Tuples, Operations on Sequences, Slicing, Concatenation, Unpacking, Two Dimensional Arrays, Strings, String Functions|[Link](assets/files/PSP/PSP_2.pdf)|
 | Classroom Assignment 2 | |[Link](assets/files/PSP/ClassroomAssignment2.pdf)    |
 | Lecture 3 | Dictionary, Dictionary Functions, Sets, Set Functions, User-Defined Functions, Built-in Functions |[Link](assets/files/PSP/PSP_4.pdf)  |
