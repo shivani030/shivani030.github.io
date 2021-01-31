@@ -18,6 +18,9 @@ My research interests lie at the intersection of Systems Security and Machine Le
 _________________
 
 ### The Latest 
+_January, 2021_
+* Completed a one-day faculty development program on "Advanced Concepts in Google Classroom & Google Meet" hosted by Department of Microbiology, Delhi University.[<span>[Link]</span>](https://drive.google.com/file/d/1X-s3eU97msiCNh9NAERVvuzDtfADDK7U/)
+
 _June, 2020_
 * Completed a one-week faculty development program on "Open Source Tools for Research" hosted by Ramanujan College, Delhi University.[<span>[Link]</span>](https://drive.google.com/file/d/1sRuurrZD3jQVhcwxJzXK6k-sECeTiV5V/)
 
