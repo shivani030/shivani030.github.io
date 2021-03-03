@@ -18,6 +18,9 @@ My research interests lie at the intersection of Systems Security and Machine Le
 _________________
 
 ### The Latest 
+_February, 2021_
+* Attended International Research Workshop on Advances in Deep Learning and Applications hosted by Indian Institute of Information Technology, Sri City, Chittoor during February 22-26, 2021.[<span>[Link]</span>](https://drive.google.com/file/d/10cD0-uhzLW12ARlbyzBnbYO47oij1Gtb/)
+
 _January, 2021_
 * Completed a one-day faculty development program on "Advanced Concepts in Google Classroom & Google Meet" hosted by Department of Microbiology, Delhi University.[<span>[Link]</span>](https://drive.google.com/file/d/1X-s3eU97msiCNh9NAERVvuzDtfADDK7U/)
 
