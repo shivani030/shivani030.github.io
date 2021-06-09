@@ -19,6 +19,9 @@ _________________
 
 ### The Latest 
 
+_June, 2021_
+* Recieved 'Life Time Membership Certificate' from International Association for Responsible Artificial Intelligence (IARAI) [Verify](https://drive.google.com/file/d/1vyrmK90kM50blQTBgqTKuoXp_jZtdmge/view?usp=sharing)
+
 _May, 2021_
 * Our article titled LFSR Next Bit Prediction Using Deep Learning won the [Best Paper Award](https://drive.google.com/file/d/11aXbaWhr7aNMZJ3IezEbHXdI-GJ5j7Kp/view?usp=sharing) at [International Conference on Artificial Intelligence](https://aifoundation.in/icai2021/index.php) (ICAI-2021), hosted by AI Foundation during May 22-23, 2021 and was published by Journal of Oriental Research Madras.[<span>[Download]</span>](https://drive.google.com/file/d/1sdCC5JR0omJY1qFBobJ3bsRL7ve11hz6/)
 
