@@ -1,24 +1,19 @@
 ---
 layout: page
-title:
+title: Home
 permalink: /
 ---
 
 <head>
- <!-- Place your kit's code here -->
- <script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
 </head>
 
-**Priyansh Singh** <br>  
-Email: <a href="mailto: cs.priyansh@gmail.com">cs.priyansh@gmail.com </a> <br> <a href="https://scholar.google.com/citations?hl=en&user=xN5oO6IAAAAJ" target="_blank"><i class="fab fa-google" href="#"></i></a> /  <a href="https://www.linkedin.com/in/priyanshsingh/" target="_blank"><i class="fab fa-linkedin" href="#"></i></a> / <a href="https://github.com/priyanshs" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://www.instagram.com/boardslayer" target="_blank"><i class="fab fa-instagram" href="#"></i></a> / <a href="https://twitter.com/boardslayer_" target="_blank"><i class="fab fa-twitter" href="#"></i></a> | ![](/assets/images/priyansh.jpg){:height=258px" width="210px" style="float: right ; padding:auto" }
 
-Hi there!
-I'm Priyansh. I'm currently employed at Indian Institute of Information Technology, Allahabad as a Research Engineer. I have a firm focus towards System Security.
+ **Priyansh Singh** <br> <!-- SDEI <br>  -->    Email: <a href="mailto: cs.priyansh@gmail.com">cs.priyansh@gmail.com</a><br> <a href="https://scholar.google.com/citations?hl=en&user=xN5oO6IAAAAJ" target="_blank"><i class="fab fa-google" href="#"></i></a> /  <a href="https://www.linkedin.com/in/priyanshsingh/" target="_blank"><i class="fab fa-linkedin" href="#"></i></a> / <a href="https://github.com/priyanshs" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://www.instagram.com/boardslayer" target="_blank"><i class="fab fa-instagram" href="#"></i></a> / <a href="https://twitter.com/boardslayer_" target="_blank"><i class="fab fa-twitter" href="#"></i></a> | ![](/assets/images/priyansh.jpg){:height=258px" width="210px" style="float: right ; padding:auto" }
 
-Prior to this I was an Assistant Professor in the Computer Science and Engineering Department at [<span style="color: #6495ED">ABES Engineering College, India</span>](https://www.abes.ac.in/), where I taught courses on [<span style="color: #6495ED">Computer System Security </span>](/computer_system_security.md)and [<span style="color: #6495ED">Problem Solving using Python</span>](/problem_solving.md). You can find a detailed list of courses as well as video material [<span style="color: #6495ED ">here</span>](teaching.md).
+I am a recent Junior Research Engineer with the IoT Security Project at Indian Institute of Information Technology, Allahabad.  Prior to this I was an Assistant Professor in the Computer Science and Engineering Department at [<span style="color: #6495ED">ABES Engineering College, India</span>](https://www.abes.ac.in/), where I taught courses on [<span style="color: #6495ED">Computer System Security </span>](/computer_system_security.md)and [<span style="color: #6495ED">Problem Solving using Python</span>](/problem_solving.md). You can find a detailed list of courses as well as video material [<span style="color: #6495ED	">here</span>](teaching.md).).
 
-My research interests lie at the intersection of Systems Security. I received my Masters in Information Security from the Indian Institute of Information Technology (IIIT) - Gwalior, India in 2019; where I wrote my dissertation titled, "Detection of Malicious OOXML Documents Using Domain-Specific Features" under the supervision of [<span style="color: #6495ED ">Prof Shashikala Tapaswi</span>](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Shashikala). If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).
-
+My research interests lie at the intersection of Systems Security. I received my Masters in Information Security from the Indian Institute of Information Technology (IIIT) - Gwalior, India in 2019; where I wrote my dissertation titled, "Detection of Malicious OOXML Documents Using Domain-Specific Features" under the supervision of [<span style="color: #6495ED	">Prof Shashikala Tapaswi</span>](https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Prof.Shashikala). If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED	">here</span>](assets/files/PriyanshSingh.pdf). 
 _________________
 
 ### The Latest
