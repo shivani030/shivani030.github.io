@@ -21,12 +21,12 @@ The first ten to twelve hours are dedicated to familiarizing the student with th
 | Practice Problem 2 | |[Link](assets/files/PSP/Problems2.pdf) |
 | Practice Problem 3 | |[Link](assets/files/PSP/Problems3.pdf) |
 
-
-
-
 The materials posted here were developed using various resources:
+
 1. [cp-algorithms](https://cp-algorithms.com/)
 2. [CS 97SI (Stanford)](http://web.stanford.edu/class/cs97si/)
 3. [T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)
 4. [Algorithm Design (Princeton)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 5. [Algorithms by Jeff Erickson (Illinois)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+
+I hope this helps the people looking for a better understanding of the fundamentals. You may connect with me if you require any help with the material.
