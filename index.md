@@ -8,7 +8,9 @@ permalink: /
     <script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
 </head>
 
-##### _Hi! I'm Priyansh. I'm an educator and a computer security researcher_ <br> <a href="mailto: cs.priyansh@gmail.com"><i class="fa fa-envelope-o" href="#"></i></a> / <a href="https://scholar.google.com/citations?hl=en&user=xN5oO6IAAAAJ" target="_blank"><i class="fab fa-google" href="#"></i></a> /  <a href="https://www.linkedin.com/in/priyanshsingh/" target="_blank"><i class="fab fa-linkedin" href="#"></i></a> / <a href="https://github.com/priyanshs" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://www.instagram.com/boardslayer" target="_blank"><i class="fab fa-instagram" href="#"></i></a> / <a href="https://twitter.com/boardslayer_" target="_blank"><i class="fab fa-twitter" href="#"></i></a> ![](/assets/images/priyansh.jpg){:height=258px" width="210px" style="float: right ; padding:auto"}
+##### _Hi! I'm Priyansh. I'm an educator and a computer security researcher_
+
+![](/assets/images/priyansh.jpg){:height=258px" width="210px" style="float: right ; padding:auto"}
 
 I'm currently researching security concerns in the Internet-of-Things space at [<span style="color: #6495ED">Indian Institute of Information Technology, Allahabad</span>](iiita.ac.in). I have taught in the capacity of an Assistant Professor at [<span style="color: #6495ED">ABES Engineering College, India</span>](https://www.abes.ac.in/) for two years. I received my Masters degree in Information Security from the [<span style="color: #6495ED">Indian Institute of Information Technology, Gwalior</span>](iiitm.ac.in) in 2019. I have a Bachelors degree in Computer Science and Engineering from Guru Gobind Singh Indraprastha University.
 
@@ -16,7 +18,7 @@ If you are inclined you can find my complete curriculum vitae [<span style="colo
 
 _________________
 
-### Highlights 
+### Highlights
 
 ##### _October, 2021_
 
