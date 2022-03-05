@@ -10,7 +10,7 @@ During the my tenure as an Assistant Professor in the Computer Science and Engin
 
 * This subject focuses on the fundamental concepts of Cyber Security and Cyber Defense. The link above contains a brief overview and links to the material.
 
-### [<span style="color: #6495ED">Problem Solving using Python</span>](/problem_solving.md)
+### [<span style="color: #6495ED">Problem Solving using Python </span>](/problem_solving.md)
 
 * This subject focuses on developing the programming and logical thinking skills of those attempting it. I was part of the team that created this course. More recently, I converted the coursework into a self-learning module which you can find at the link above.
 
