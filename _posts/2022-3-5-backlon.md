@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "A love letter to Backlon"
+date:   2022-3-5 23:02:05
+author: Priyansh Singh
+keywords: ""
+---
+Hi Backlon, 
+
+We have barely ever interacted on the internet. I've been an avid reader of The Verge and you. If the title didn't give it away, I'm a kindred spirit. You have been one of my favourite journalists and people on the internet. I have consumed days worth of content that had your touch to it. 
+
+I was that weird little gadget-obsessed kid studying computer engineering  back in 2013/14, when I first stumbled upon The Verge and The Vergecast. I don't remember which came first for me. I have some fond memories of sitting on the college grounds listening to you guys on my Lumia 420 debate the gadget of the week. Yes, I was one of those who believed that Microsoft would get the smartphone right. The website that you helped build has been my go-to for years now. It gave me a space where I didn't feel like this odd geek who liked gadgets. 
+
+It is not that I have always agreed with your take on things, but more often than not they have given me a prespective that has led to growth. The inclusion of philosophy, higher thought and always getting to the first principles is something that has resonated with my core. Your brand of well-tempered and well-researched journalism is something that I consider a benchmark in what I read now. Your writing and the structure (The Verge) that you have helped create made me realise there is more than just electronics in these devices, there is heart. 
+
+All this is to say is, it had an impact. You had an impact. 
+
+It is bitter sweet to see you go. To know that I probably won't read a critique from you for a while. 
+
+Rock'n'Roll 
+
+boardslayer
+
+PS : The Verge has had space in my RSS reader because of your work. Heck I don't know when I'd have stumbled on RSS feeds if it weren't for you guys at The Verge. 
