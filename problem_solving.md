@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Problem Solving with Python 
-permalink: /Problem_Solving
+permalink: /problem_solving
 ---
 
 

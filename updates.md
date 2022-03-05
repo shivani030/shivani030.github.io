@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Updates 
-permalink: /Problem_Solving
+permalink: /updates
 ---
 
 ### _February, 2022_
