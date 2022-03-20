@@ -1,19 +1,19 @@
 # Site settings
-title_left    : "Priyansh Singh"
+title_left    : "Priyansh"
 title_right   : "" # default: ""
-description   : "A personal Website for Priyansh Singh."
-keywords      : "Priyansh Singh, priyansh, singh,"
-url           : https://priyanshs.github.io/ 
+description   : "Personal Website"
+keywords      : "priyansh, singh"
+url           : https://priyanshs.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "boardslayer_"
-instagram_username : "boardslayer"
+facebook_username : "boardslayer"
 linkedin_username : "priyanshsingh"
 comments_enabled  : false #  if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:title/
@@ -39,6 +39,8 @@ plugins:
 
 # navbar pages
 navbar:
+  - slug : about
+    title: About
   - slug : blog
     title: Blog
 

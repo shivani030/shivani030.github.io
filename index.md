@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 
+title:
 permalink: /
 ---
 
 <head>
-    <script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
+	<!-- Place your kit's code here -->
+	<script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
 </head>
 
 ##### _Hi! I'm Priyansh. I'm an educator and a computer security researcher_
 
 ![](/assets/images/priyansh.jpg){:height=258px" width="210px" style="float: right ; padding:1%"}
-
 
 I'm currently researching security concerns in the Internet-of-Things space at [<span style="color: #6495ED">Indian Institute of Information Technology, Allahabad</span>](iiita.ac.in). I have taught in the capacity of an Assistant Professor at [<span style="color: #6495ED">ABES Engineering College, India</span>](https://www.abes.ac.in/) for two years. I received my Masters degree in Information Security from the [<span style="color: #6495ED">Indian Institute of Information Technology, Gwalior</span>](iiitm.ac.in) in 2019. I have a Bachelors degree in Computer Science and Engineering from Guru Gobind Singh Indraprastha University.
 

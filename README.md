@@ -1,9 +1,8 @@
-# Priyansh's Personal Website
+# Priyansh's personal website
 
-> The website was created using the Thinkspace theme. 
-The thoughts presented here are my own and do not represent ...  
+> Thinkspace is just another minimalist Jekyll theme which designed for technical writing blog.
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg)
+These thoughts are my own and do not represent…
 
 ## License
 

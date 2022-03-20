@@ -1,7 +1,9 @@
 ---
 layout: page
 title: All Updates 
-permalink: /updates
+description: "This is a comprehensive collection of all updates"
+keyword: "updates"
+permalink: /updates/
 ---
 
 ### _February, 2022_

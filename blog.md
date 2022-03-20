@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Blog
+title: Home
 permalink: /blog/
 ---
 
-<section class="post-list">
+{% include intro.html %}
 
+<section class="post-list">
   <div class="container">
     {% for post in site.posts %}
       {% unless post.next %}
