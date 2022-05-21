@@ -12,9 +12,9 @@ Gupta, S., Singh, P., Shrotriya, N., & Baweja, T. (2021). LFSR Next Bit Predicti
 
 Singh, P., Tapaswi, S., & Gupta, S. (2020). Malware Detection in PDF and Office Documents: A survey. Information Security Journal: A Global Perspective, 29(3), 134-153.
 
-## Under Review
+## Other Research 
 
-An article on detection of malicious MS Office documents is under late stages of peer review.
+During my Masters I worked on detection of malicous OOXML documents using domain specific features. You can find my thesis right [<span style="color: #6495ED ">here</span>](assets/files/Thesis2017IS17.pdf) and the corresponding presentation [<span style="color: #6495ED ">here</span>](assets/files/Presentation2017IS17.pdf).
 
 ## Peer Review
 
