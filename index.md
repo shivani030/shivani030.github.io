@@ -15,7 +15,7 @@ permalink: /
 
 I'm currently researching security concerns in the Internet-of-Things space at [<span style="color: #6495ED">Indian Institute of Information Technology, Allahabad</span>](iiita.ac.in). I have taught in the capacity of an Assistant Professor at [<span style="color: #6495ED">ABES Engineering College, India</span>](https://www.abes.ac.in/) for two years. I received my Masters degree in Information Security from the [<span style="color: #6495ED">Indian Institute of Information Technology, Gwalior</span>](iiitm.ac.in) in 2019. I have a Bachelors degree in Computer Science and Engineering from Guru Gobind Singh Indraprastha University.
 
-If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf). You can contact me on email with email on hi[at]priyanshs.me 
+If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me on hi@priyanshs.me or priyansh@cse.iitd.ac.in
 
 _________________
 
