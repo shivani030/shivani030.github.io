@@ -4,7 +4,8 @@ title: Research and Publications
 permalink: /research/
 ---
 
-I am primarily interested in Systems Security and how it influences other fields. I am currently exploring the domain of Internet of Things (IoT) security and helping develop a framework to detect vulnerabilities in generic IoT devices.
+I am primarily interested in Systems Security and how it influences other fields. I'm currently exploring security in cellular networks and its various applications. 
+
 
 ## Publications
 
