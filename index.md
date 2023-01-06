@@ -22,7 +22,7 @@ _________________
 
 ### Highlights
 
-##### _August, 2021_
+##### _August, 2022_
 * Started working towards my Doctor of Philosophy (PhD) at Indian Institute of Technology, Delhi.
 
 ##### _October, 2021_
