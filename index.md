@@ -11,7 +11,7 @@ permalink: /
 
 ##### _Hi! I'm Dr Shivani Singh. I'm a Post doctoral fellow at SIT, IIT Delhi_
 
-![](/assets/images/priyansh.jpg){:height=258px" width="210px" style="float: right ; padding:1%"}
+![](/assets/IMG_20230221_180801.jpg){:height=258px" width="210px" style="float: right ; padding:1%"}
 I am a first-year PhD student working under the guidance of [<span style="color: #6495ED">Prof. Vireshwar Kumar </span>](https://www.cse.iitd.ac.in/~viresh/) at the [<span style="color: #6495ED">Indian Institute of Technology, Delhi</span>](https://www.iitd.ac.in/) a. I am working on the topic of network security concerning next-generation cellular systems. I'm interested in Systems Security and Network Security and their real-world applications. 
 
 In the past, I have previously worked in the Internet-of-Things space at the [<span style="color: #6495ED">Indian Institute of Information Technology, Allahabad</span>](https://iiita.ac.in). Before it, I taught as an Assistant Professor at [<span style="color: #6495ED">ABES Engineering College, Ghaziabad</span>](https://www.abes.ac.in/), for over two years. I received my master's degree in Information Security from the [<span style="color: #6495ED">Indian Institute of Information Technology, Gwalior</span>](https://iiitm.ac.in), in 2019. I have a bachelor's degree in Computer Science and Engineering from [<span style="color: #6495ED">Guru Gobind Singh Indraprastha University, Delhi</span>](http://www.ipu.ac.in).
