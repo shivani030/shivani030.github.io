@@ -9,16 +9,20 @@ permalink: /
 	<script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
 </head>
 
-##### _Hi! I'm Dr Shivani Singh. I'm a Post doctoral fellow at SIT, IIT Delhi_
+##### _Hi! I'm Dr Shivani Singh. I'm a Post doctoral fellow at School of Information Technology (https://sit.iitd.ac.in/), IIT Delhi_
 
 ![](/assets/images/shivani.png){:height=258px" width="210px" style="float: right ; padding:1%"}
-I am a first-year PhD student working under the guidance of [<span style="color: #6495ED">Prof. Niladri Chatterjee </span>](https://www.cse.iitd.ac.in/~viresh/) at the [<span style="color: #6495ED">Indian Institute of Technology, Delhi</span>](https://www.iitd.ac.in/) a. I am working on the topic of network security concerning next-generation cellular systems. I'm interested in Systems Security and Network Security and their real-world applications. 
 
-In the past, I have previously worked in the Internet-of-Things space at the [<span style="color: #6495ED">Indian Institute of Information Technology, Allahabad</span>](https://iiita.ac.in). Before it, I taught as an Assistant Professor at [<span style="color: #6495ED">ABES Engineering College, Ghaziabad</span>](https://www.abes.ac.in/), for over two years. I received my master's degree in Information Security from the [<span style="color: #6495ED">Indian Institute of Information Technology, Gwalior</span>](https://iiitm.ac.in), in 2019. I have a bachelor's degree in Computer Science and Engineering from [<span style="color: #6495ED">Guru Gobind Singh Indraprastha University, Delhi</span>](http://www.ipu.ac.in).
+I am working in the area of Mathematics and Computing specialliy on the topics such as Uncertainty Quantification, Fuzzy Set Theory, Rough Set Theory, Automata Theory and their application in Data-Dimensionality Reduction, Rule induction and Missing Data Imputation with [<span style="color: #6495ED">Prof. Niladri Chatterjee </span>](https://web.iitd.ac.in/~niladri/).
 
-If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me on hi@priyanshs.me or priyansh@cse.iitd.ac.in
+I have recieved my Ph.D. degree in Mathematics from [<span style="color: #6495ED">DST-Centre for Interdisciplinary Mathematical Sciences, Banaras Hindu University</span>](https://bhu.ac.in/Site/UnitHomeTemplate/1_233_3536_Main-Site-Centres) under the guidance of with [<span style="color: #6495ED">Prof. Tanmoy Som </span>](https://iitbhu.irins.org/profile/50246) 
 
-_________________
+
+If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me on shivanithakur030@gmail.com or drssingh@cse.iitd.ac.in
+
+___________I am an assistant professor at CSE, IIT Delhi and am broadly interested in systems. Prior to joining IIT Delhi, I spent an year at Instabase and another couple years as the CTO of Mobile Enerlytics, a startup I co-founded.
+
+I received my Ph.D. from Purdue University where I worked closely with professors Y. Charlie Hu and Samuel Midkiff. I earned my undergraduate degree from IIT Kanpur.______
 
 ### Highlights
 
