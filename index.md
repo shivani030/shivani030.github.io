@@ -9,7 +9,7 @@ permalink: /
 	<script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
 </head>
 
-##### _Hi! I'm Dr Shivani Singh. I'm a Post doctoral fellow at [<span style="color: #6495ED">School of Information Technology </span>](https://sit.iitd.ac.in/), IIT Delhi_
+##### _Hi! I'm Dr Shivani Singh. I'm a Post doctoral fellow at [<span style="color: #6495ED">School of Information Technology, IIT Delhi. </span>](https://sit.iitd.ac.in/)_
 
 ![](/assets/images/shivani.png){:height=258px" width="210px" style="float: right ; padding:1%"}
 
