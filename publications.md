@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research and Publications
-permalink: /research/
+permalink: /publications/
 ---
 
 I am primarily interested in Systems Security and how it influences other fields. I'm currently exploring security in cellular networks and its various applications. 
