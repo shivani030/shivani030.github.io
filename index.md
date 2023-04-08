@@ -20,10 +20,6 @@ I have recieved my Ph.D. degree in Mathematics from [<span style="color: #6495ED
 
 If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me on shivanithakur030@gmail.com or drssingh@cse.iitd.ac.in
 
-___________I am an assistant professor at CSE, IIT Delhi and am broadly interested in systems. Prior to joining IIT Delhi, I spent an year at Instabase and another couple years as the CTO of Mobile Enerlytics, a startup I co-founded.
-
-I received my Ph.D. from Purdue University where I worked closely with professors Y. Charlie Hu and Samuel Midkiff. I earned my undergraduate degree from IIT Kanpur.______
-
 ### Highlights
 
 ##### _August, 2022_
