@@ -1,16 +1,16 @@
 # Site settings
-title_left    : "Priyansh"
-title_right   : "" # default: ""
+title_left    : "Dr Shivani "
+title_right   : "Singh" # default: ""
 description   : "Personal Website"
-keywords      : "priyansh, singh"
-url           : https://priyanshs.github.io/ # site url
+keywords      : "shivani, singh"
+url           : https://shivani030.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : "boardslayer_"
-facebook_username : "boardslayer"
-linkedin_username : "priyanshsingh"
+twitter_username  : ""
+facebook_username : ""
+linkedin_username : ""
 comments_enabled  : false #  if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : true
@@ -30,7 +30,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Priyansh Singh"
+  name     : "Shivani Singh"
 
 plugins:
   - jekyll-sitemap
