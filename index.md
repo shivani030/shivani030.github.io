@@ -18,7 +18,7 @@ I am working in the area of _Mathematics and Computing_ on the topics: Uncertain
 I have recieved my Ph.D. degree in Mathematics from [<span style="color: #6495ED">DST-Centre for Interdisciplinary Mathematical Sciences, Banaras Hindu University</span>](https://bhu.ac.in/Site/UnitHomeTemplate/1_233_3536_Main-Site-Centres) under the supervision of [<span style="color: #6495ED">Prof. Tanmoy Som. </span>](https://iitbhu.irins.org/profile/50246) 
 
 
-If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/PriyanshSingh.pdf).  Reach out to me on shivanithakur030@gmail.com or drssingh@cse.iitd.ac.in
+If you are inclined you can find my complete curriculum vitae [<span style="color: #6495ED ">here</span>](assets/files/CVShiv2810.pdf).  Reach out to me on shivanithakur030@gmail.com or drssingh@cse.iitd.ac.in
 
 ### Highlights
 
