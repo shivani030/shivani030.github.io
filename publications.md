@@ -4,19 +4,22 @@ title: Research and Publications
 permalink: /publications/
 ---
 
-I am primarily interested in Systems Security and how it influences other fields. I'm currently exploring security in cellular networks and its various applications. 
-
 
 ## Publications
 
-Gupta, S., Singh, P., Shrotriya, N., & Baweja, T. (2021). LFSR Next Bit Prediction through Deep Learning. Journal of Informatics Electrical and Electronics Engineering (JIEEE), 2(2), 1–9.
+Singh, S., Shreevastava, S., Som, T., & Somani, G. (2020). A fuzzy similarity-based rough set approach for attribute selection in set-valued information systems. Soft Computing, 24(6), 4675-4691.
 
-Singh, P., Tapaswi, S., & Gupta, S. (2020). Malware Detection in PDF and Office Documents: A survey. Information Security Journal: A Global Perspective, 29(3), 134-153.
+Singh, S., Shreevastava, S., Som, T., & Jain, P. (2019). Intuitionistic fuzzy quantifier and its application in feature selection. International Journal of Fuzzy Systems, 21, 441-453.
 
-## Other Research 
+Shreevastava, S., Singh, S., Tiwari, A. K., & Som, T. (2021). Different classes ratio and Laplace summation operator based intuitionistic fuzzy rough attribute selection. Iranian Journal of Fuzzy Systems, 18(6), 67-82.
 
-During my Masters I worked on detection of malicous OOXML documents using domain specific features. You can find my thesis right [<span style="color: #6495ED ">here</span>](assets/files/Thesis2017IS17.pdf) and the corresponding presentation [<span style="color: #6495ED ">here</span>](assets/files/Presentation2017IS17.pdf).
+## Conference Publication
 
-## Peer Review
+Singh, S., Shreevastava, S., & Som, T. (2020). Attribute reduction of incomplete information systems: an intuitionistic fuzzy rough set approach. In Recent Advances in Intelligent Information Systems and Applied Mathematics (pp. 628-643). Springer International Publishing.
 
-I have been on occasion asked to review articles for [Journal of Computer Security by IOS Press](https://www.iospress.com/catalog/journals/journal-of-computer-security).
+## Book Chapters 
+
+Singh, S., & Som, T. (2022). Intuitionistic Fuzzy Rough Sets: Theory to Practice. Mathematics in Computational Science and Engineering, 91-133.
+
+Som, T., Shreevastava, S., Tiwari, A. K., & Singh, S. (2020). Fuzzy Rough Set Theory‐Based Feature Selection: A Review. Mathematical Methods in Interdisciplinary Sciences, 145-166.
+
