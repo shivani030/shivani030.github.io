@@ -18,7 +18,7 @@ Within the realm of Mathematics and Computing, my research delves into intriguin
 I earned my Ph.D. degree in Mathematics from [<span style="color: #6495ED">DST-Centre for Interdisciplinary Mathematical Sciences, Banaras Hindu University</span>](https://bhu.ac.in/Site/UnitHomeTemplate/1_233_3536_Main-Site-Centres) under the guidance of [<span style="color: #6495ED">Prof. Tanmoy Som, IIT BHU. </span>](https://iitbhu.irins.org/profile/50246). 
 
 
-For a comprehensive overview of my academic journey, you can peruse my curriculum vitae available [<span style="color: #6495ED ">here</span>](assets/files/CV Shiv Dec2023.pdf).  If you share an interest in the realms of research I explore and wish to explore collaboration opportunities, feel free to connect with me at shivanithakur030@gmail.com or drssingh@cse.iitd.ac.in.
+For a comprehensive overview of my academic journey, you can peruse my curriculum vitae available [<span style="color: #6495ED ">here</span>](assets/files/CVShivDec2023.pdf).  If you share an interest in the realms of research I explore and wish to explore collaboration opportunities, feel free to connect with me at shivanithakur030@gmail.com or drssingh@cse.iitd.ac.in.
 
 
 
